@@ -1,8 +1,7 @@
 # Cognitive :: V1
 
 > [!NOTE]
-> This is the first version of the solution.<br/>
-> It is freezed: no further development is planned.<br/>
+> This is the first version of the solution. And it is in code freeze state: no further development is planned.<br/>
 > The current version uses the new Dioxus version 0.7 and related dependencies and it can be found [here](https://github.com/dxps/cognitive).
 
 Cognitive = A space of knowledge and with cognitive functions.
