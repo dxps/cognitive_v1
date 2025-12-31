@@ -1,6 +1,11 @@
-# Cognitive
+# Cognitive :: V1
 
-A space of knowledge and with cognitive functions.
+> [!NOTE]
+> This is the first version of the solution.<br/>
+> It is freezed: no further development is planned.<br/>
+> The current version uses the new Dioxus version 0.7 and related dependencies and it can be found [here](https://github.com/dxps/cognitive).
+
+Cognitive = A space of knowledge and with cognitive functions.
 
 Currently, the focus is on the knowledge: the structure (of entities with their attributes) and links (between entities).<br/>
 Later, the cognitive functions will be introduced through a pluggable mechanism. Most probably, a WASM based server side implementation.
